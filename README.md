@@ -9,18 +9,16 @@ Hong Kong's dim sum? Italy's lasagna? Or UK's fish 'n' chips? Join us on a journ
 - Final Presentation slide deck: https://docs.google.com/presentation/d/1wObyMUzj4kTVAmnqk8gC464YDAfKBK14BAdCwoCQXgQ/edit#slide=id.gd14764a389_3_420
 
 ## Screenshots
-<img width="1728" alt="Screenshot 2024-09-15 at 11 07 36 PM 2" src="https://github.com/user-attachments/assets/3f58640f-5b76-45b3-accf-2b2b67176932">
-<img width="911" alt="Screenshot 2024-09-15 at 11 08 42 PM" src="https://github.com/user-attachments/assets/e6f1b12c-f185-406b-945e-4357eeb7c0bd">
-<img width="872" alt="Screenshot 2024-09-15 at 11 09 01 PM" src="https://github.com/user-attachments/assets/3a1d3e32-9e4e-4351-9917-5eb28dd9e58b">
-<img width="638" alt="Screenshot 2024-09-15 at 11 09 29 PM" src="https://github.com/user-attachments/assets/34c4c864-e78c-43b1-a999-9a1206360c9b">
-<img width="1730" alt="Screenshot 2024-09-15 at 11 19 38 PM" src="https://github.com/user-attachments/assets/8ee6c4be-44ad-43e8-8b7d-425840a63406">
-<img width="1731" alt="Screenshot 2024-09-15 at 11 19 51 PM" src="https://github.com/user-attachments/assets/a7cac6c7-2e9e-4a5f-8bea-a9fd464444b8">
-<img width="1730" alt="Screenshot 2024-09-15 at 11 20 04 PM" src="https://github.com/user-attachments/assets/83500ec0-ec2c-4cd3-bc9e-d8e4be1537e0">
-<img width="1727" alt="Screenshot 2024-09-15 at 11 20 15 PM" src="https://github.com/user-attachments/assets/489371c5-8a26-41ee-aa72-e0ecfd357532">
-<img width="1732" alt="Screenshot 2024-09-15 at 11 20 53 PM" src="https://github.com/user-attachments/assets/102d296f-3fd3-4323-8217-503f07f364a0">
-<img width="1734" alt="Screenshot 2024-09-15 at 11 21 22 PM" src="https://github.com/user-attachments/assets/43fa9aca-7bc3-4e39-a8e1-d5bfc5236c0a">
-<img width="1727" alt="Screenshot 2024-09-15 at 11 21 35 PM" src="https://github.com/user-attachments/assets/bef45b09-a06a-452d-8775-f8910674f1a5">
-<img width="1732" alt="Screenshot 2024-09-15 at 11 21 47 PM" src="https://github.com/user-attachments/assets/9a9549f0-5f60-4f1b-97ed-4c9f073ddf6c">
+Splash Screen <img width="1728" alt="Screenshot 2024-09-15 at 11 07 36 PM 2" src="https://github.com/user-attachments/assets/3f58640f-5b76-45b3-accf-2b2b67176932">
+Splash Screen (without header) <img width="638" alt="Screenshot 2024-09-15 at 11 09 29 PM" src="https://github.com/user-attachments/assets/34c4c864-e78c-43b1-a999-9a1206360c9b">
+Cuisines button from home page <img width="1730" alt="Screenshot 2024-09-15 at 11 19 38 PM" src="https://github.com/user-attachments/assets/8ee6c4be-44ad-43e8-8b7d-425840a63406">
+Cities button from home page <img width="1731" alt="Screenshot 2024-09-15 at 11 19 51 PM" src="https://github.com/user-attachments/assets/a7cac6c7-2e9e-4a5f-8bea-a9fd464444b8">
+Restaurants button from page <img width="1730" alt="Screenshot 2024-09-15 at 11 20 04 PM" src="https://github.com/user-attachments/assets/83500ec0-ec2c-4cd3-bc9e-d8e4be1537e0">
+Footer on home page<img width="1727" alt="Screenshot 2024-09-15 at 11 20 15 PM" src="https://github.com/user-attachments/assets/489371c5-8a26-41ee-aa72-e0ecfd357532">
+Meet the Team <img width="1732" alt="Screenshot 2024-09-15 at 11 20 53 PM" src="https://github.com/user-attachments/assets/102d296f-3fd3-4323-8217-503f07f364a0">
+API list <img width="1734" alt="Screenshot 2024-09-15 at 11 21 22 PM" src="https://github.com/user-attachments/assets/43fa9aca-7bc3-4e39-a8e1-d5bfc5236c0a">
+Tools list<img width="1727" alt="Screenshot 2024-09-15 at 11 21 35 PM" src="https://github.com/user-attachments/assets/bef45b09-a06a-452d-8775-f8910674f1a5">
+Cuisines splash <img width="1732" alt="Screenshot 2024-09-15 at 11 21 47 PM" src="https://github.com/user-attachments/assets/9a9549f0-5f60-4f1b-97ed-4c9f073ddf6c">
 <img width="1733" alt="Screenshot 2024-09-15 at 11 21 59 PM" src="https://github.com/user-attachments/assets/38601628-5095-4301-8cef-e6bb9e0c4b45">
 <img width="1735" alt="Screenshot 2024-09-15 at 11 22 17 PM" src="https://github.com/user-attachments/assets/eaa5bd01-1bdb-48b9-adbf-355890b4959d">
 <img width="1732" alt="Screenshot 2024-09-15 at 11 22 28 PM" src="https://github.com/user-attachments/assets/0ebb049a-516f-4447-bb6d-9064f175dd0b">
